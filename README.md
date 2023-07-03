@@ -1,4 +1,4 @@
-Bem-vindo(a) ao meu perfil de desenvolvedor. 👋
+Bem-vindo(a) ao meu perfil de desenvolvedor 👋
 
 Estou começando os trabalhos nessa rede, sinta-se livre para comentar, compartilhar e testar meus projetos.
 
