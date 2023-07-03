@@ -1,4 +1,12 @@
-### Hi there 👋
+Bem-vindo(a) ao meu perfil de desenvolvedor. 👋
+
+Estou começando os trabalhos nessa rede, sinta-se livre para comentar, compartilhar e testar meus projetos.
+
+# Meus principais projetos
+
+- https://github.com/Cosceli/Fintech_Fase4_Cap12.git
+
+- https://github.com/Cosceli/Icarus.git
 
 <!--
 **Cosceli/Cosceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
